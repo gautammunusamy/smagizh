@@ -1,0 +1,4069 @@
+{
+  "settings": {
+    "name": "Smagizh Marketing",
+    "shortName": "Smagizh",
+    "legalName": "Smagizh Marketing",
+    "tagline": "Your Business Growth Partner",
+    "description": "Helping rental owners attract more enquiries and turn opportunities into bookings through focused digital promotion.",
+    "heroSubtitle": "Smagizh Marketing helps rental businesses get discovered, generate quality leads, and connect with more customers.",
+    "defaultWhatsapp": "919884500063",
+    "phone": "+91 98845 00063",
+    "email": "marketing@smagizh.com",
+    "address": "Vedhachalam Nagar, Chennai 303202",
+    "city": "Chennai, Tamil Nadu, India",
+    "hours": "Mon – Sat: 9:30 AM – 7:00 PM",
+    "mapUrl": "https://maps.google.com/?q=Vedhachalam+Nagar+Chennai",
+    "monthlyDiscount": 5,
+    "annualDiscount": 20,
+    "trialPoints": [
+      "Cancel anytime for no fees",
+      "No charges during the trial period",
+      "Cancel anytime before renewal"
+    ],
+    "pricingNotes": [
+      "Discounts apply to service fees only. Ad spend, applicable taxes and other party costs are extra.",
+      "All budgets are used directly in the advertising platforms.",
+      "Annual plans require 12 months of commitment and upfront payment. Renewal and cancellation terms apply as per stated policy."
+    ],
+    "pricingFootnote": "Payment after structure. Savings shown against 12 months at the standard monthly fee.",
+    "social": {
+      "facebook": "https://facebook.com/",
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/",
+      "youtube": "https://youtube.com/"
+    }
+  },
+  "categoryGroups": [
+    {
+      "id": "vehicle",
+      "name": "Vehicle Rentals",
+      "short": "Vehicles",
+      "icon": "car",
+      "color": "blue"
+    },
+    {
+      "id": "equipment",
+      "name": "Equipment & Machinery",
+      "short": "Equipment & Machinery",
+      "icon": "backhoe",
+      "color": "orange"
+    },
+    {
+      "id": "products",
+      "name": "Products & Specialty Rentals",
+      "short": "Products & Specialty Rentals",
+      "icon": "box",
+      "color": "emerald"
+    },
+    {
+      "id": "property",
+      "name": "Property",
+      "short": "Property",
+      "icon": "home",
+      "color": "rose"
+    }
+  ],
+  "teams": [
+    "Default",
+    "Team 1",
+    "Team 2",
+    "Team 3",
+    "Team 4"
+  ],
+  "categories": [
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 1",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More bike bookings.",
+      "id": "bike-rental",
+      "slug": "bike-rental",
+      "name": "Bike Rental",
+      "group": "vehicle",
+      "order": 1,
+      "icon": "motorbike",
+      "color": "violet",
+      "short": "Grow your bike rental business with targeted local campaigns.",
+      "intro": "Promote your rental fleet, reach local riders and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local riders",
+          "text": "Targeted campaigns for your city."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "bike types",
+      "noun": "bike",
+      "inventoryLabel": "Fleet size",
+      "inventoryPlaceholder": "e.g. 10 bikes",
+      "attract": "Promote bike types, rental plans and offers.",
+      "subcategories": [
+        {
+          "id": "bike-rental-1",
+          "name": "Scooters / Gearless Scooters",
+          "sample": "Honda Activa 6G – Self-Drive Scooter",
+          "icon": "scooter",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "bike-rental-2",
+          "name": "Commuter Bikes",
+          "sample": "Hero Splendor+ Daily Commuter",
+          "icon": "motorbike",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "bike-rental-3",
+          "name": "Cruiser Bikes",
+          "sample": "Royal Enfield Classic 350",
+          "icon": "moped",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "bike-rental-4",
+          "name": "Sports Bikes",
+          "sample": "Yamaha R15 V4 Track-Ready",
+          "icon": "helmet",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "bike-rental-5",
+          "name": "Touring / Adventure Bikes",
+          "sample": "Royal Enfield Himalayan 450",
+          "icon": "map-pinned",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "bike-rental-6",
+          "name": "Electric Scooters",
+          "sample": "Ather 450X Electric Scooter",
+          "icon": "scooter-electric",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "bike-rental-7",
+          "name": "Electric Motorcycles",
+          "sample": "Revolt RV400 Electric Motorcycle",
+          "icon": "battery",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "bike-rental-8",
+          "name": "Premium Bikes",
+          "sample": "Harley-Davidson Sportster Iron 883",
+          "icon": "star",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "bike-rental-9",
+          "name": "Superbikes",
+          "sample": "Kawasaki Ninja ZX-6R",
+          "icon": "gauge",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "bike-rental-10",
+          "name": "Vintage / Classic Bikes",
+          "sample": "Vintage Royal Enfield Bullet 350 (1990s restored)",
+          "icon": "history",
+          "color": "green",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right riders and make every enquiry easier to manage.",
+      "builtFor": "We plan around your bike types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your rental fleet, reach local riders and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the bike types you actually offer — from scooters / gearless scooters, commuter bikes, cruiser bikes and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Promote bike types, rental plans and offers."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 2",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "car-rental",
+      "slug": "car-rental",
+      "name": "Car Rental",
+      "group": "vehicle",
+      "order": 2,
+      "icon": "car",
+      "color": "blue",
+      "short": "Reach more customers for your car rental business.",
+      "intro": "Promote your car rental fleet, reach travellers, families and corporate customers, and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach more travellers",
+          "text": "Targeted campaigns for your city."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "car types",
+      "noun": "car",
+      "inventoryLabel": "Fleet size",
+      "inventoryPlaceholder": "e.g. 10 cars",
+      "attract": "Promote your fleet, rental plans and offers.",
+      "subcategories": [
+        {
+          "id": "car-rental-1",
+          "name": "Hatchback",
+          "sample": "Maruti Suzuki Swift – Self Drive",
+          "icon": "car",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "car-rental-2",
+          "name": "Sedan",
+          "sample": "Honda City – Chauffeur Optional",
+          "icon": "car-front",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "car-rental-3",
+          "name": "SUV",
+          "sample": "Hyundai Creta – Weekend SUV",
+          "icon": "car-suv",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "car-rental-4",
+          "name": "MUV / MPV",
+          "sample": "Toyota Innova Crysta – Family MPV",
+          "icon": "car-4wd",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "car-rental-5",
+          "name": "7-Seater Cars",
+          "sample": "Mahindra XUV700 7-Seater",
+          "icon": "users",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "car-rental-6",
+          "name": "Luxury Cars",
+          "sample": "Mercedes-Benz E-Class – Executive Sedan",
+          "icon": "crown",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "car-rental-7",
+          "name": "Electric Cars",
+          "sample": "Tata Nexon EV – Self Drive",
+          "icon": "charging-pile",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "car-rental-8",
+          "name": "Premium Sedan",
+          "sample": "Skoda Superb – Business Sedan",
+          "icon": "diamond",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "car-rental-9",
+          "name": "Premium SUV",
+          "sample": "Toyota Fortuner – Premium SUV",
+          "icon": "car-off-road",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "car-rental-10",
+          "name": "Convertible / Sports Cars",
+          "sample": "Ford Mustang GT Convertible",
+          "icon": "steering-wheel",
+          "color": "green",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right travellers and make every enquiry easier to manage.",
+      "builtFor": "We plan around your car types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your car rental fleet, reach travellers, families and corporate customers, and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the car types you actually offer — from hatchback, sedan, suv and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Promote your fleet, rental plans and offers."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "919884500062",
+      "team": "Team 2",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "lmv-rental",
+      "slug": "lmv-rental",
+      "name": "LMV Rental",
+      "group": "vehicle",
+      "order": 3,
+      "icon": "truck",
+      "color": "teal",
+      "short": "Connect your fleet with local transport demand.",
+      "intro": "Promote your commercial vehicle rental fleet, reach local businesses and delivery operators, and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local businesses",
+          "text": "Targeted campaigns for your city."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into rental bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "vehicle types",
+      "noun": "vehicle",
+      "inventoryLabel": "Fleet size",
+      "inventoryPlaceholder": "e.g. 10 vehicles",
+      "attract": "Promote your vehicle types, rental plans and offers.",
+      "subcategories": [
+        {
+          "id": "lmv-rental-1",
+          "name": "Mini Truck",
+          "sample": "Tata Ace Gold – Mini Truck",
+          "icon": "truck",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "lmv-rental-2",
+          "name": "Pickup Truck",
+          "sample": "Mahindra Bolero Pik-Up",
+          "icon": "truck-loading",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "lmv-rental-3",
+          "name": "Mini Tempo",
+          "sample": "Tata Intra V30 Tempo",
+          "icon": "truck-delivery",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "lmv-rental-4",
+          "name": "Cargo Van",
+          "sample": "Maruti Suzuki Eeco Cargo Van",
+          "icon": "package",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "lmv-rental-5",
+          "name": "Light Commercial Truck",
+          "sample": "Tata 407 Light Truck",
+          "icon": "truck-alt",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "lmv-rental-6",
+          "name": "3-Wheeler Cargo",
+          "sample": "Piaggio Ape Xtra Cargo 3-Wheeler",
+          "icon": "trolley",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "lmv-rental-7",
+          "name": "Refrigerated Mini Truck",
+          "sample": "Tata Ace Reefer Mini Truck",
+          "icon": "fridge",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "lmv-rental-8",
+          "name": "Mini Water Tanker",
+          "sample": "Tata Intra Mini Water Tanker",
+          "icon": "droplets",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "lmv-rental-9",
+          "name": "Passenger Van",
+          "sample": "Tata Winger Passenger Van",
+          "icon": "bus",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "lmv-rental-10",
+          "name": "Small Container Truck",
+          "sample": "Ashok Leyland Dost Container",
+          "icon": "container",
+          "color": "green",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right businesses and make every enquiry easier to manage.",
+      "builtFor": "We plan around your vehicle types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your commercial vehicle rental fleet, reach local businesses and delivery operators, and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the vehicle types you actually offer — from mini truck, pickup truck, mini tempo and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Promote your vehicle types, rental plans and offers."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 2",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "hmv-rental",
+      "slug": "hmv-rental",
+      "name": "HMV Rental",
+      "group": "vehicle",
+      "order": 4,
+      "icon": "tir",
+      "color": "red",
+      "short": "Promote your heavy vehicle rental services.",
+      "intro": "Promote your HMV rental fleet, reach industrial clients and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach industrial clients",
+          "text": "Targeted campaigns for your region."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "HMV types",
+      "noun": "HMV",
+      "inventoryLabel": "Fleet size",
+      "inventoryPlaceholder": "e.g. 10 trucks",
+      "attract": "Promote your HMV types, rental plans and offers.",
+      "subcategories": [
+        {
+          "id": "hmv-rental-1",
+          "name": "Tipper / Dumper Truck",
+          "sample": "Tata Signa Tipper",
+          "icon": "truck-loading",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "hmv-rental-2",
+          "name": "Heavy Cargo Truck",
+          "sample": "Ashok Leyland AVTR Cargo Truck",
+          "icon": "tir",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "hmv-rental-3",
+          "name": "Container Truck",
+          "sample": "BharatBenz 3123R Container Truck",
+          "icon": "container",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "hmv-rental-4",
+          "name": "Trailer / Flatbed Trailer",
+          "sample": "Tata Prima Tractor-Trailer",
+          "icon": "truck-alt",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "hmv-rental-5",
+          "name": "Water Tanker",
+          "sample": "Ashok Leyland Water Tanker",
+          "icon": "droplets",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "hmv-rental-6",
+          "name": "Fuel Tanker",
+          "sample": "Eicher Pro Fuel Tanker",
+          "icon": "fuel",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "hmv-rental-7",
+          "name": "Refrigerated Truck",
+          "sample": "Tata Signa Reefer Truck",
+          "icon": "fridge",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "hmv-rental-8",
+          "name": "Tractor Trailer",
+          "sample": "Volvo FM Prime Mover",
+          "icon": "truck",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "hmv-rental-9",
+          "name": "Car Carrier",
+          "sample": "Ashok Leyland Car Carrier Trailer",
+          "icon": "car-crane",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "hmv-rental-10",
+          "name": "Bulk / Specialized Carrier",
+          "sample": "BharatBenz Bulk Cement Carrier",
+          "icon": "cylinder",
+          "color": "green",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right industrial clients and make every enquiry easier to manage.",
+      "builtFor": "We plan around your HMV types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your HMV rental fleet, reach industrial clients and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the HMV types you actually offer — from tipper / dumper truck, heavy cargo truck, container truck and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Promote your HMV types, rental plans and offers."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 3",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "construction-equipment-rental",
+      "slug": "construction-equipment-rental",
+      "name": "Construction Equipment Rental",
+      "group": "equipment",
+      "order": 5,
+      "icon": "backhoe",
+      "color": "amber",
+      "short": "Reach contractors looking for rental equipment.",
+      "intro": "Promote your equipment, reach builders and construction contractors and turn enquiries into rental bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local builders",
+          "text": "Targeted campaigns in your city and nearby project locations."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into rental bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "equipment types",
+      "noun": "equipment",
+      "inventoryLabel": "Equipment count",
+      "inventoryPlaceholder": "e.g. 10 machines",
+      "attract": "Promote your equipment to builders and contractors.",
+      "subcategories": [
+        {
+          "id": "construction-equipment-rental-1",
+          "name": "Excavators",
+          "sample": "Tata Hitachi EX 200 Excavator",
+          "icon": "backhoe",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "construction-equipment-rental-2",
+          "name": "Backhoe Loaders / JCB",
+          "sample": "JCB 3DX Backhoe Loader",
+          "icon": "bulldozer",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "construction-equipment-rental-3",
+          "name": "Cranes",
+          "sample": "ACE Hydra Mobile Crane 14T",
+          "icon": "crane",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "construction-equipment-rental-4",
+          "name": "Concrete Equipment",
+          "sample": "Schwing Stetter Self-Loading Mixer",
+          "icon": "brick-wall",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "construction-equipment-rental-5",
+          "name": "Compaction Equipment",
+          "sample": "Hamm Tandem Roller",
+          "icon": "cylinder",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "construction-equipment-rental-6",
+          "name": "Wheel Loaders",
+          "sample": "JCB 455ZX Wheel Loader",
+          "icon": "tractor-alt",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "construction-equipment-rental-7",
+          "name": "Skid Steer Loaders",
+          "sample": "Bobcat S650 Skid Steer",
+          "icon": "shovel",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "construction-equipment-rental-8",
+          "name": "Road Construction Equipment",
+          "sample": "Ammann Asphalt Paver",
+          "icon": "road",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "construction-equipment-rental-9",
+          "name": "Lifting & Access Equipment",
+          "sample": "Genie GS-2646 Scissor Lift",
+          "icon": "elevator",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "construction-equipment-rental-10",
+          "name": "Piling & Foundation Equipment",
+          "sample": "Piling Rig – Rotary Type",
+          "icon": "pickaxe",
+          "color": "green",
+          "active": true
+        },
+        {
+          "id": "construction-equipment-rental-11",
+          "name": "Material Handling Equipment",
+          "sample": "Godrej Diesel Forklift 3T",
+          "icon": "forklift",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "construction-equipment-rental-12",
+          "name": "Demolition Equipment",
+          "sample": "Hydraulic Concrete Breaker Attachment",
+          "icon": "hammer",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "construction-equipment-rental-13",
+          "name": "Surveying Equipment",
+          "sample": "Total Station Survey Kit",
+          "icon": "compass",
+          "color": "emerald",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right builders and make every enquiry easier to manage.",
+      "builtFor": "We plan around your equipment types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your equipment, reach builders and construction contractors and turn enquiries into rental bookings with Smagizh Marketing. We plan campaigns around the equipment types you actually offer — from excavators, backhoe loaders / jcb, cranes and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Promote your equipment to builders and contractors."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 3",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "agricultural-farming-equipment-rental",
+      "slug": "agricultural-farming-equipment-rental",
+      "name": "Agricultural & Farming Equipment Rental",
+      "group": "equipment",
+      "order": 6,
+      "icon": "tractor",
+      "color": "green",
+      "short": "Connect with farmers through local campaigns.",
+      "intro": "Promote your equipment, reach local farmers and agricultural service providers and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local farmers",
+          "text": "Targeted campaigns for your area."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into rental bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "equipment types",
+      "noun": "equipment",
+      "inventoryLabel": "Equipment count",
+      "inventoryPlaceholder": "e.g. 10 units",
+      "discovered": "Show up in local searches when farmers need equipment.",
+      "attract": "Promote your equipment types, rental plans and offers.",
+      "subcategories": [
+        {
+          "id": "agricultural-farming-equipment-rental-1",
+          "name": "Tractors",
+          "sample": "Mahindra 575 DI Tractor",
+          "icon": "tractor",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "agricultural-farming-equipment-rental-2",
+          "name": "Power Tillers",
+          "sample": "VST Shakti Power Tiller",
+          "icon": "tractor-alt",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "agricultural-farming-equipment-rental-3",
+          "name": "Rotavators",
+          "sample": "Fieldking Rotavator",
+          "icon": "cog",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "agricultural-farming-equipment-rental-4",
+          "name": "Cultivators",
+          "sample": "Spring-Loaded Cultivator 9-Tyne",
+          "icon": "pitchfork",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "agricultural-farming-equipment-rental-5",
+          "name": "Harvesting Equipment",
+          "sample": "Combine Harvester – Paddy",
+          "icon": "wheat",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "agricultural-farming-equipment-rental-6",
+          "name": "Seeders & Planters",
+          "sample": "Seed-Cum-Fertilizer Drill",
+          "icon": "seedling",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "agricultural-farming-equipment-rental-7",
+          "name": "Sprayers",
+          "sample": "Boom Sprayer – Tractor Mounted",
+          "icon": "spray",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "agricultural-farming-equipment-rental-8",
+          "name": "Threshers",
+          "sample": "Multi-Crop Thresher",
+          "icon": "grain",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "agricultural-farming-equipment-rental-9",
+          "name": "Paddy Equipment",
+          "sample": "Paddy Transplanter",
+          "icon": "sprout",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "agricultural-farming-equipment-rental-10",
+          "name": "Irrigation Equipment",
+          "sample": "Diesel Water Pump Set 5HP",
+          "icon": "droplet",
+          "color": "green",
+          "active": true
+        },
+        {
+          "id": "agricultural-farming-equipment-rental-11",
+          "name": "Land Preparation Equipment",
+          "sample": "Disc Harrow – Tractor Mounted",
+          "icon": "shovel",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "agricultural-farming-equipment-rental-12",
+          "name": "Fodder / Chaff Equipment",
+          "sample": "Chaff Cutter – Power Operated",
+          "icon": "scissors",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "agricultural-farming-equipment-rental-13",
+          "name": "Post-Harvest Equipment",
+          "sample": "Grain Cleaner-cum-Grader",
+          "icon": "garden-cart",
+          "color": "emerald",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right farmers and make every enquiry easier to manage.",
+      "builtFor": "We plan around your equipment types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your equipment, reach local farmers and agricultural service providers and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the equipment types you actually offer — from tractors, power tillers, rotavators and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Show up in local searches when farmers need equipment."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Promote your equipment types, rental plans and offers."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 3",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "generator-rental",
+      "slug": "generator-rental",
+      "name": "Generator Rental",
+      "group": "equipment",
+      "order": 7,
+      "icon": "generator",
+      "color": "orange",
+      "short": "Promote your power solutions to local customers.",
+      "intro": "Promote your generator rental inventory, reach event organisers, businesses and project teams, and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local customers",
+          "text": "Targeted campaigns for your area."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into rental bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "equipment types",
+      "noun": "generator",
+      "inventoryLabel": "Generator count",
+      "inventoryPlaceholder": "e.g. 10 generators",
+      "attract": "Showcase your equipment types, rental plans and offers.",
+      "subcategories": [
+        {
+          "id": "generator-rental-1",
+          "name": "Silent Diesel Generators",
+          "sample": "Kirloskar 62.5 kVA Silent DG Set",
+          "icon": "generator",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "generator-rental-2",
+          "name": "Industrial Diesel Generators",
+          "sample": "Cummins 250 kVA Industrial DG",
+          "icon": "factory-alt",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "generator-rental-3",
+          "name": "Portable Generators",
+          "sample": "Honda EU22i Portable Generator",
+          "icon": "plug",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "generator-rental-4",
+          "name": "Trolley-Mounted Generators",
+          "sample": "Mahindra Powerol 30 kVA Trolley DG",
+          "icon": "trolley",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "generator-rental-5",
+          "name": "Vehicle-Mounted Generators",
+          "sample": "Vehicle-Mounted 62.5 kVA DG Unit",
+          "icon": "truck",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "generator-rental-6",
+          "name": "Skid-Mounted Generators",
+          "sample": "Skid-Mounted 125 kVA DG Set",
+          "icon": "container",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "generator-rental-7",
+          "name": "Event Generators",
+          "sample": "Cummins 100 kVA Event Generator",
+          "icon": "party-popper",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "generator-rental-8",
+          "name": "Construction-Site Generators",
+          "sample": "CAT 320 kVA Construction DG",
+          "icon": "crane",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "generator-rental-9",
+          "name": "Gas Generators",
+          "sample": "Industrial Gas Generator 500 kVA",
+          "icon": "flame",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "generator-rental-10",
+          "name": "Battery Power / BESS",
+          "sample": "Battery Energy Storage Unit 60 kWh",
+          "icon": "battery",
+          "color": "green",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right customers and make every enquiry easier to manage.",
+      "builtFor": "We plan around your equipment types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your generator rental inventory, reach event organisers, businesses and project teams, and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the generator types you actually offer — from silent diesel generators, industrial diesel generators, portable generators and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Showcase your equipment types, rental plans and offers."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 3",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "tools-equipment-rental",
+      "slug": "tools-equipment-rental",
+      "name": "Tools Equipment Rental",
+      "group": "equipment",
+      "order": 8,
+      "icon": "tools",
+      "color": "blue",
+      "short": "Reach professionals looking for tools on rent.",
+      "intro": "Promote your equipment rental business, reach local tradespeople, contractors and businesses, and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local businesses",
+          "text": "Targeted campaigns for your city."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into rental bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "equipment types",
+      "noun": "tool",
+      "inventoryLabel": "Tool inventory size",
+      "inventoryPlaceholder": "e.g. 50 tools",
+      "attract": "Promote your equipment types, rental rates and offers.",
+      "subcategories": [
+        {
+          "id": "tools-equipment-rental-1",
+          "name": "Power Tools",
+          "sample": "Bosch GSB 13 RE Impact Drill",
+          "icon": "drill",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-2",
+          "name": "Cutting Tools",
+          "sample": "Makita Angle Grinder 4-inch",
+          "icon": "saw",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-3",
+          "name": "Drilling & Demolition Tools",
+          "sample": "Bosch GBH 5-40 D Rotary Hammer",
+          "icon": "hammer-drill",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-4",
+          "name": "Welding & Fabrication",
+          "sample": "Lincoln Electric Inverter Welder 200A",
+          "icon": "flame",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-5",
+          "name": "Hand Tools",
+          "sample": "Stanley 65-Piece Hand Tool Kit",
+          "icon": "wrench",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-6",
+          "name": "Measuring & Survey Tools",
+          "sample": "Bosch Laser Distance Measurer",
+          "icon": "ruler",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-7",
+          "name": "Electrical Tools",
+          "sample": "Fluke Digital Multimeter Kit",
+          "icon": "plug",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-8",
+          "name": "Plumbing Tools",
+          "sample": "Pipe Threading Machine",
+          "icon": "pipeline",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-9",
+          "name": "Cleaning Equipment",
+          "sample": "Karcher High-Pressure Washer",
+          "icon": "vacuum-cleaner",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-10",
+          "name": "Garden & Landscaping Tools",
+          "sample": "Honda Petrol Lawn Mower",
+          "icon": "lawn-mower",
+          "color": "green",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-11",
+          "name": "Material Handling Tools",
+          "sample": "Hydraulic Pallet Jack 2T",
+          "icon": "trolley",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-12",
+          "name": "Air / Pneumatic Tools",
+          "sample": "Air Compressor 25L with Impact Gun",
+          "icon": "wind",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-13",
+          "name": "Ladders & Access Equipment",
+          "sample": "Aluminium Extension Ladder 20ft",
+          "icon": "ladder",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "tools-equipment-rental-14",
+          "name": "Safety Equipment",
+          "sample": "Fall-Protection Safety Harness Kit",
+          "icon": "hard-hat",
+          "color": "red",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right businesses and make every enquiry easier to manage.",
+      "builtFor": "We plan around your equipment types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your equipment rental business, reach local tradespeople, contractors and businesses, and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the tool types you actually offer — from power tools, cutting tools, drilling & demolition tools and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Promote your equipment types, rental rates and offers."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 4",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "security-equipment-rental",
+      "slug": "security-equipment-rental",
+      "name": "Security Equipment Rental",
+      "group": "products",
+      "order": 9,
+      "icon": "cctv",
+      "color": "sky",
+      "short": "Promote your security equipment rental services.",
+      "intro": "Promote your security equipment rental business, reach event organisers, offices and site managers, and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local clients",
+          "text": "Targeted campaigns for your area."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into rental bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "equipment types",
+      "noun": "security equipment",
+      "inventoryLabel": "Equipment count",
+      "inventoryPlaceholder": "e.g. 50 items",
+      "attract": "Promote equipment types, rental plans and offers.",
+      "subcategories": [
+        {
+          "id": "security-equipment-rental-1",
+          "name": "CCTV Cameras",
+          "sample": "Hikvision 4-Camera CCTV Kit",
+          "icon": "cctv",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "security-equipment-rental-2",
+          "name": "Surveillance Systems",
+          "sample": "CP Plus IP Surveillance System 8-Camera",
+          "icon": "monitor",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "security-equipment-rental-3",
+          "name": "Access Control Systems",
+          "sample": "Godrej Biometric Door Access Kit",
+          "icon": "lock",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "security-equipment-rental-4",
+          "name": "Biometric Devices",
+          "sample": "eSSL Biometric Attendance Machine",
+          "icon": "fingerprint",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "security-equipment-rental-5",
+          "name": "Walkie-Talkies",
+          "sample": "Motorola Walkie-Talkie Pair Set",
+          "icon": "radio",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "security-equipment-rental-6",
+          "name": "Metal Detectors",
+          "sample": "Handheld & Walk-through Metal Detector Set",
+          "icon": "scan",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "security-equipment-rental-7",
+          "name": "Security Alarms",
+          "sample": "Wireless Home Security Alarm Kit",
+          "icon": "siren",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "security-equipment-rental-8",
+          "name": "Fire Safety Equipment",
+          "sample": "ABC Fire Extinguisher Set (5 units)",
+          "icon": "fire-extinguisher",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "security-equipment-rental-9",
+          "name": "Security Lighting",
+          "sample": "Solar Security Floodlight Set",
+          "icon": "lightbulb",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "security-equipment-rental-10",
+          "name": "Bollards & Barriers",
+          "sample": "Retractable Crowd-Control Bollards",
+          "icon": "barrier",
+          "color": "green",
+          "active": true
+        },
+        {
+          "id": "security-equipment-rental-11",
+          "name": "Convex / Security Mirrors",
+          "sample": "Convex Traffic Safety Mirror",
+          "icon": "eye",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "security-equipment-rental-12",
+          "name": "Security Accessories",
+          "sample": "Security Guard Equipment Kit",
+          "icon": "shield",
+          "color": "blue",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right clients and make every enquiry easier to manage.",
+      "builtFor": "We plan around your equipment types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your security equipment rental business, reach event organisers, offices and site managers, and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the security equipment types you actually offer — from cctv cameras, surveillance systems, access control systems and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Promote equipment types, rental plans and offers."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 4",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "tech-electronics-rental",
+      "slug": "tech-electronics-rental",
+      "name": "Tech & Electronics Rental",
+      "group": "products",
+      "order": 10,
+      "icon": "laptop",
+      "color": "indigo",
+      "short": "Reach customers looking for technology on rent.",
+      "intro": "Promote your devices, reach creators, event planners and local businesses, and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach more customers",
+          "text": "Targeted campaigns for your city."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into rental bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "device types",
+      "noun": "device",
+      "inventoryLabel": "Device inventory size",
+      "inventoryPlaceholder": "e.g. 10 devices",
+      "attract": "Promote your devices to creators, event teams and businesses.",
+      "subcategories": [
+        {
+          "id": "tech-electronics-rental-1",
+          "name": "Laptops",
+          "sample": "Dell Latitude 5420 Business Laptop",
+          "icon": "laptop",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-2",
+          "name": "Desktop Computers",
+          "sample": "HP ProDesk Desktop Workstation",
+          "icon": "desktop",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-3",
+          "name": "Projectors",
+          "sample": "Epson Full-HD Projector",
+          "icon": "projector",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-4",
+          "name": "Cameras",
+          "sample": "Canon EOS R6 Mirrorless Camera Kit",
+          "icon": "camera",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-5",
+          "name": "Gaming Consoles",
+          "sample": "Sony PlayStation 5 with 2 Controllers",
+          "icon": "gamepad",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-6",
+          "name": "Smartphones",
+          "sample": "Apple iPhone 15 – Short-Term Rental",
+          "icon": "smartphone",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-7",
+          "name": "Tablets",
+          "sample": "Apple iPad 10th Gen",
+          "icon": "tablet",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-8",
+          "name": "Monitors",
+          "sample": "LG 27-inch 4K Monitor",
+          "icon": "monitor",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-9",
+          "name": "Printers & Scanners",
+          "sample": "Canon All-in-One Printer for Events",
+          "icon": "printer",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-10",
+          "name": "Networking Equipment",
+          "sample": "TP-Link Event Wi-Fi Router Kit",
+          "icon": "router",
+          "color": "green",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-11",
+          "name": "Audio Electronics",
+          "sample": "JBL Portable PA Speaker System",
+          "icon": "headphones",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-12",
+          "name": "Drones",
+          "sample": "DJI Mavic 3 Pro Drone",
+          "icon": "drone",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-13",
+          "name": "Wearables",
+          "sample": "Apple Watch Series 9 – Event Rental",
+          "icon": "watch",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-14",
+          "name": "Servers & Workstations",
+          "sample": "Dell PowerEdge Rack Server",
+          "icon": "server",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "tech-electronics-rental-15",
+          "name": "Electronics Accessories",
+          "sample": "Wireless Presenter & Cable Kit",
+          "icon": "cable",
+          "color": "orange",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right customers and make every enquiry easier to manage.",
+      "builtFor": "We plan around your device types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your devices, reach creators, event planners and local businesses, and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the device types you actually offer — from laptops, desktop computers, projectors and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Promote your devices to creators, event teams and businesses."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 4",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "home-appliances-rental",
+      "slug": "home-appliances-rental",
+      "name": "Home Appliances Rental",
+      "group": "products",
+      "order": 11,
+      "icon": "wash-machine",
+      "color": "cyan",
+      "short": "Connect with households seeking rental appliances.",
+      "intro": "Promote your home appliance rental business, reach local households, students and relocating professionals, and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local customers",
+          "text": "Targeted campaigns for your city."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into rental bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "appliance types",
+      "noun": "appliance",
+      "inventoryLabel": "Appliance inventory size",
+      "inventoryPlaceholder": "e.g. 50 appliances",
+      "attract": "Promote your appliances to households, students and relocating professionals.",
+      "subcategories": [
+        {
+          "id": "home-appliances-rental-1",
+          "name": "Refrigerators",
+          "sample": "LG 260L Double-Door Refrigerator",
+          "icon": "fridge",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "home-appliances-rental-2",
+          "name": "Washing Machines",
+          "sample": "Samsung 7kg Front-Load Washing Machine",
+          "icon": "wash-machine",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "home-appliances-rental-3",
+          "name": "Air Conditioners",
+          "sample": "Voltas 1.5-Ton Split AC",
+          "icon": "air-conditioner",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "home-appliances-rental-4",
+          "name": "Televisions",
+          "sample": "Sony Bravia 55-inch 4K Smart TV",
+          "icon": "tv",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "home-appliances-rental-5",
+          "name": "Water Purifiers",
+          "sample": "Kent RO+UV Water Purifier",
+          "icon": "droplet",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "home-appliances-rental-6",
+          "name": "Air Coolers",
+          "sample": "Symphony Desert Air Cooler",
+          "icon": "fan",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "home-appliances-rental-7",
+          "name": "Microwave Ovens",
+          "sample": "IFB Convection Microwave Oven",
+          "icon": "microwave",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "home-appliances-rental-8",
+          "name": "Dishwashers",
+          "sample": "Bosch 12-Place Dishwasher",
+          "icon": "utensils",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "home-appliances-rental-9",
+          "name": "Air Purifiers",
+          "sample": "Dyson Pure Cool Air Purifier",
+          "icon": "wind",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "home-appliances-rental-10",
+          "name": "Vacuum Cleaners",
+          "sample": "Karcher Wet & Dry Vacuum Cleaner",
+          "icon": "vacuum-cleaner",
+          "color": "green",
+          "active": true
+        },
+        {
+          "id": "home-appliances-rental-11",
+          "name": "Kitchen Appliances",
+          "sample": "Commercial Mixer-Grinder & Blender Set",
+          "icon": "blender",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "home-appliances-rental-12",
+          "name": "Dryers",
+          "sample": "LG 7kg Tumble Dryer",
+          "icon": "dryer",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "home-appliances-rental-13",
+          "name": "Small Home Appliances",
+          "sample": "Induction Cooktop & Kettle Combo",
+          "icon": "cooking-pot",
+          "color": "emerald",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right customers and make every enquiry easier to manage.",
+      "builtFor": "We plan around your appliance types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your home appliance rental business, reach local households, students and relocating professionals, and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the appliance types you actually offer — from refrigerators, washing machines, air conditioners and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Promote your appliances to households, students and relocating professionals."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 4",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "fashion-rental",
+      "slug": "fashion-rental",
+      "name": "Fashion Rental",
+      "group": "products",
+      "order": 12,
+      "icon": "dress",
+      "color": "pink",
+      "short": "Promote your fashion rentals for special occasions.",
+      "intro": "Promote your fashion rental collections, reach wedding customers and occasion shoppers, and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local customers",
+          "text": "Targeted campaigns for weddings and special occasions."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into rental bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "fashion rental types",
+      "noun": "outfit",
+      "inventoryLabel": "Collection size",
+      "inventoryPlaceholder": "e.g. 50 outfits",
+      "discovered": "Local search and occasion-focused campaigns.",
+      "attract": "Showcase your collections to the right customers.",
+      "subcategories": [
+        {
+          "id": "fashion-rental-1",
+          "name": "Bridal Wear",
+          "sample": "Designer Red Bridal Lehenga Set",
+          "icon": "dress",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-2",
+          "name": "Designer Lehenga",
+          "sample": "Pastel Embroidered Party Lehenga",
+          "icon": "dress",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-3",
+          "name": "Sarees",
+          "sample": "Kanjivaram Silk Saree",
+          "icon": "saree",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-4",
+          "name": "Men's Ethnic Wear",
+          "sample": "Designer Kurta-Pyjama Set",
+          "icon": "shirt",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-5",
+          "name": "Sherwani",
+          "sample": "Groom's Sherwani with Stole",
+          "icon": "shirt-alt",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-6",
+          "name": "Suits & Tuxedos",
+          "sample": "Slim-Fit Formal Tuxedo Suit",
+          "icon": "tie",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-7",
+          "name": "Gowns",
+          "sample": "Sequinned Evening Gown",
+          "icon": "dress",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-8",
+          "name": "Party Wear",
+          "sample": "Indo-Western Party Outfit",
+          "icon": "sparkles",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-9",
+          "name": "Traditional / Cultural Costumes",
+          "sample": "Bharatanatyam Dance Costume Set",
+          "icon": "masks",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-10",
+          "name": "Kids Costumes",
+          "sample": "Kids Fancy-Dress Costume",
+          "icon": "baby",
+          "color": "green",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-11",
+          "name": "Western Designer Wear",
+          "sample": "Designer Cocktail Dress",
+          "icon": "jacket",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-12",
+          "name": "Handbags & Accessories",
+          "sample": "Designer Clutch & Jewellery Set",
+          "icon": "handbag",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-13",
+          "name": "Footwear",
+          "sample": "Designer Heels / Traditional Juttis",
+          "icon": "shoe",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "fashion-rental-14",
+          "name": "Fashion Jewellery",
+          "sample": "Bridal Kundan Jewellery Set",
+          "icon": "gem",
+          "color": "red",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right customers and make every enquiry easier to manage.",
+      "builtFor": "We plan around your fashion rental types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your fashion rental collections, reach wedding customers and occasion shoppers, and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the outfit types you actually offer — from bridal wear, designer lehenga, sarees and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and occasion-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Showcase your collections to the right customers."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 4",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "fitness-sports-rental",
+      "slug": "fitness-sports-rental",
+      "name": "Fitness & Sports Rental",
+      "group": "products",
+      "order": 13,
+      "icon": "barbell",
+      "color": "emerald",
+      "short": "Reach fitness enthusiasts and sports communities.",
+      "intro": "Promote your fitness and sports equipment, reach local enthusiasts and sports organisers, and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local enthusiasts",
+          "text": "Targeted campaigns for your city."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "equipment types",
+      "noun": "equipment",
+      "inventoryLabel": "Equipment count",
+      "inventoryPlaceholder": "e.g. 10 items",
+      "attract": "Promote your equipment to fitness enthusiasts, gyms and event organisers.",
+      "subcategories": [
+        {
+          "id": "fitness-sports-rental-1",
+          "name": "Treadmills",
+          "sample": "Cosco Motorized Treadmill",
+          "icon": "treadmill",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-2",
+          "name": "Exercise Bikes / Spin Bikes",
+          "sample": "Fitkit Spin Bike",
+          "icon": "bicycle",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-3",
+          "name": "Cross Trainers / Ellipticals",
+          "sample": "Cockatoo Elliptical Cross Trainer",
+          "icon": "stretching",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-4",
+          "name": "Rowing Machines",
+          "sample": "Concept2 Model D Rowing Machine",
+          "icon": "stretching-alt",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-5",
+          "name": "Multi-Gym Equipment",
+          "sample": "Home Multi-Gym Station",
+          "icon": "barbell",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-6",
+          "name": "Strength Machines",
+          "sample": "Leg Press & Lat Pulldown Combo Machine",
+          "icon": "biceps",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-7",
+          "name": "Free Weights",
+          "sample": "Dumbbell & Kettlebell Set (Full Range)",
+          "icon": "dumbbell",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-8",
+          "name": "Benches & Racks",
+          "sample": "Adjustable Weight Bench with Squat Rack",
+          "icon": "weight",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-9",
+          "name": "Cricket Equipment",
+          "sample": "Cricket Kit – Full Set",
+          "icon": "cricket",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-10",
+          "name": "Badminton Equipment",
+          "sample": "Badminton Racket & Net Set",
+          "icon": "feather",
+          "color": "green",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-11",
+          "name": "Cycling Equipment",
+          "sample": "Trek Mountain Bike – Trail Ready",
+          "icon": "bike-sport",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-12",
+          "name": "Yoga & Pilates",
+          "sample": "Yoga Mat & Pilates Ring Set",
+          "icon": "yoga",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-13",
+          "name": "Boxing & MMA",
+          "sample": "Boxing Bag & Gloves Set",
+          "icon": "karate",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-14",
+          "name": "Outdoor Sports",
+          "sample": "Camping & Trekking Gear Set",
+          "icon": "tent",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "fitness-sports-rental-15",
+          "name": "Water Sports",
+          "sample": "Kayak with Paddle & Life Jacket",
+          "icon": "kayak",
+          "color": "orange",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right enthusiasts and make every enquiry easier to manage.",
+      "builtFor": "We plan around your equipment types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your fitness and sports equipment, reach local enthusiasts and sports organisers, and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the equipment types you actually offer — from treadmills, exercise bikes / spin bikes, cross trainers / ellipticals and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Promote your equipment to fitness enthusiasts, gyms and event organisers."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 4",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "medical-equipment-rental",
+      "slug": "medical-equipment-rental",
+      "name": "Medical Equipment Rental",
+      "group": "products",
+      "order": 14,
+      "icon": "first-aid",
+      "color": "red",
+      "short": "Help customers discover your medical equipment rentals.",
+      "intro": "Promote your medical equipment rental service, reach caregivers and healthcare providers, and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local customers",
+          "text": "Targeted campaigns for your city."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into rental bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "medical equipment types",
+      "noun": "medical equipment",
+      "inventoryLabel": "Equipment count",
+      "inventoryPlaceholder": "e.g. 50 items",
+      "attract": "Reach caregivers and healthcare providers.",
+      "subcategories": [
+        {
+          "id": "medical-equipment-rental-1",
+          "name": "Respiratory Care",
+          "sample": "BPL Oxygen Concentrator 5L",
+          "icon": "lungs",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "medical-equipment-rental-2",
+          "name": "Hospital Beds & Cots",
+          "sample": "Semi-Fowler Hospital Bed",
+          "icon": "hospital-bed",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "medical-equipment-rental-3",
+          "name": "Mobility Aids",
+          "sample": "Folding Wheelchair",
+          "icon": "wheelchair",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "medical-equipment-rental-4",
+          "name": "Patient Monitoring",
+          "sample": "Multi-Parameter Patient Monitor",
+          "icon": "heart-monitor",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "medical-equipment-rental-5",
+          "name": "Oxygen Therapy",
+          "sample": "Oxygen Cylinder with Regulator",
+          "icon": "cylinder",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "medical-equipment-rental-6",
+          "name": "ICU / Critical Care",
+          "sample": "ICU Bed with Ventilator Support Setup",
+          "icon": "icu-monitor",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "medical-equipment-rental-7",
+          "name": "Infusion & Injection Equipment",
+          "sample": "Infusion Pump",
+          "icon": "syringe",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "medical-equipment-rental-8",
+          "name": "Physiotherapy & Rehabilitation",
+          "sample": "CPM Knee Rehabilitation Machine",
+          "icon": "massage",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "medical-equipment-rental-9",
+          "name": "Elderly Care",
+          "sample": "Commode Chair with Wheels",
+          "icon": "elderly",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "medical-equipment-rental-10",
+          "name": "Patient Transfer Equipment",
+          "sample": "Patient Transfer Stretcher",
+          "icon": "crutches",
+          "color": "green",
+          "active": true
+        },
+        {
+          "id": "medical-equipment-rental-11",
+          "name": "Diagnostic Equipment",
+          "sample": "Digital Blood Pressure & Glucose Monitor Kit",
+          "icon": "stethoscope",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "medical-equipment-rental-12",
+          "name": "Surgical / Post-Surgery Equipment",
+          "sample": "Post-Surgery Recovery Kit",
+          "icon": "scissors",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "medical-equipment-rental-13",
+          "name": "Home Healthcare Essentials",
+          "sample": "Nebulizer & Home Care Essentials Kit",
+          "icon": "heart-pulse",
+          "color": "emerald",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right customers and make every enquiry easier to manage.",
+      "builtFor": "We plan around your medical equipment types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your medical equipment rental service, reach caregivers and healthcare providers, and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the medical equipment types you actually offer — from respiratory care, hospital beds & cots, mobility aids and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Reach caregivers and healthcare providers."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 4",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "party-events-rental",
+      "slug": "party-events-rental",
+      "name": "Party & Events Rental",
+      "group": "products",
+      "order": 15,
+      "icon": "confetti",
+      "color": "fuchsia",
+      "short": "Connect with customers planning their next event.",
+      "intro": "Promote your event equipment rental business, reach families, businesses and event planners, and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local event planners",
+          "text": "Targeted campaigns in your city."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into rental bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "event rental types",
+      "noun": "event rental",
+      "inventoryLabel": "Inventory / package count",
+      "inventoryPlaceholder": "e.g. 50 items or 10 packages",
+      "attract": "Reach families, businesses and event planners.",
+      "subcategories": [
+        {
+          "id": "party-events-rental-1",
+          "name": "Sound Systems",
+          "sample": "JBL Professional PA Sound System",
+          "icon": "speaker",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-2",
+          "name": "Lighting Equipment",
+          "sample": "Par LED Stage Lighting Set (8 units)",
+          "icon": "lightbulb",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-3",
+          "name": "LED Walls / Video Walls",
+          "sample": "Indoor LED Video Wall – P3",
+          "icon": "tv",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-4",
+          "name": "Stage & Flooring",
+          "sample": "Modular Stage Platform (20x16 ft)",
+          "icon": "theater",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-5",
+          "name": "Tables & Chairs",
+          "sample": "Round Tables & Chiavari Chairs (Set of 100)",
+          "icon": "chair",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-6",
+          "name": "Tents / Shamiana / Structures",
+          "sample": "German Hangar Tent (40x60 ft)",
+          "icon": "tent",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-7",
+          "name": "DJ Equipment",
+          "sample": "Pioneer DJ Controller & Speaker Setup",
+          "icon": "disc",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-8",
+          "name": "Truss & Rigging",
+          "sample": "Aluminium Truss System (20 ft span)",
+          "icon": "truss",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-9",
+          "name": "Event Decoration",
+          "sample": "Floral & Balloon Décor Package",
+          "icon": "balloon",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-10",
+          "name": "Audio Visual Equipment",
+          "sample": "Conference AV Package (Screen + Projector + Mic)",
+          "icon": "presentation",
+          "color": "green",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-11",
+          "name": "Catering Equipment",
+          "sample": "Commercial Buffet Chafing Dish Set",
+          "icon": "chef-hat",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-12",
+          "name": "Cooling Equipment",
+          "sample": "Industrial Air Cooler / Mist Fan for Events",
+          "icon": "fan",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-13",
+          "name": "Photography & Video Equipment",
+          "sample": "Wedding Photography & Videography Rig",
+          "icon": "camera",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-14",
+          "name": "Dance Floors",
+          "sample": "Portable LED Dance Floor (16x16 ft)",
+          "icon": "grid",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-15",
+          "name": "Special Effects",
+          "sample": "Cold Pyro & Confetti Cannon Set",
+          "icon": "sparkles",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "party-events-rental-16",
+          "name": "Crowd Control Equipment",
+          "sample": "Queue Manager Stanchion Set",
+          "icon": "fence",
+          "color": "cyan",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right event planners and make every enquiry easier to manage.",
+      "builtFor": "We plan around your event rental types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your event equipment rental business, reach families, businesses and event planners, and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the event rental types you actually offer — from sound systems, lighting equipment, led walls / video walls and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Reach families, businesses and event planners."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 4",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Confirmed bookings and revenue",
+        "Cost per enquiry and booking"
+      ],
+      "headline": "More customers. More rental bookings.",
+      "id": "musical-instrument-rental",
+      "slug": "musical-instrument-rental",
+      "name": "Musical Instrument Rental",
+      "group": "products",
+      "order": 16,
+      "icon": "guitar",
+      "color": "violet",
+      "short": "Reach musicians, learners and event organisers.",
+      "intro": "Promote your instrument rental collection, reach local musicians, learners and event organisers, and turn enquiries into bookings with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach local musicians",
+          "text": "Targeted campaigns for your city."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into rental bookings."
+        },
+        {
+          "title": "Grow your rental business",
+          "text": "More visibility. More customers."
+        }
+      ],
+      "typeLabel": "instrument types",
+      "noun": "instrument",
+      "inventoryLabel": "Instrument count",
+      "inventoryPlaceholder": "e.g. 50 instruments",
+      "discovered": "Appear in local searches when musicians look for instruments to rent.",
+      "attract": "Promote your instrument types, rental plans and offers to interested users.",
+      "subcategories": [
+        {
+          "id": "musical-instrument-rental-1",
+          "name": "Guitars",
+          "sample": "Yamaha F310 Acoustic Guitar",
+          "icon": "guitar",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "musical-instrument-rental-2",
+          "name": "Keyboards & Pianos",
+          "sample": "Casio CT-X870 Keyboard",
+          "icon": "piano",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "musical-instrument-rental-3",
+          "name": "Drums & Percussion",
+          "sample": "Pearl Export Drum Kit",
+          "icon": "drum",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "musical-instrument-rental-4",
+          "name": "Violins & String Instruments",
+          "sample": "Student Violin 4/4 Size",
+          "icon": "violin",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "musical-instrument-rental-5",
+          "name": "Indian Classical Instruments",
+          "sample": "Concert Tabla Set",
+          "icon": "music-note",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "musical-instrument-rental-6",
+          "name": "Wind Instruments",
+          "sample": "Yamaha Alto Saxophone",
+          "icon": "saxophone",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "musical-instrument-rental-7",
+          "name": "Electronic Instruments",
+          "sample": "Roland Electronic Drum Kit",
+          "icon": "keyboard-music",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "musical-instrument-rental-8",
+          "name": "Studio Equipment",
+          "sample": "Home Recording Studio Kit",
+          "icon": "sliders",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "musical-instrument-rental-9",
+          "name": "Amplifiers",
+          "sample": "Marshall Guitar Amplifier",
+          "icon": "speaker-alt",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "musical-instrument-rental-10",
+          "name": "Microphones",
+          "sample": "Shure SM58 Vocal Microphone Pair",
+          "icon": "mic",
+          "color": "green",
+          "active": true
+        },
+        {
+          "id": "musical-instrument-rental-11",
+          "name": "DJ & Audio Gear",
+          "sample": "Pioneer DJ Controller Kit",
+          "icon": "vinyl",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "musical-instrument-rental-12",
+          "name": "Musical Accessories",
+          "sample": "Guitar Stand, Tuner & Capo Set",
+          "icon": "guitar-pick",
+          "color": "blue",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right musicians and make every enquiry easier to manage.",
+      "builtFor": "We plan around your instrument types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your instrument rental collection, reach local musicians, learners and event organisers, and turn enquiries into bookings with Smagizh Marketing. We plan campaigns around the instrument types you actually offer — from guitars, keyboards & pianos, drums & percussion and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Appear in local searches when musicians look for instruments to rent."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Promote your instrument types, rental plans and offers to interested users."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Measure enquiries, bookings and campaign spend."
+        }
+      ]
+    },
+    {
+      "image": "",
+      "banner": "",
+      "whatsapp": "",
+      "team": "Team 4",
+      "active": true,
+      "channels": [
+        "Google Search Ads",
+        "Meta Ads",
+        "Google Business Profile",
+        "Local SEO",
+        "WhatsApp Follow-up"
+      ],
+      "benefits": [
+        "Local audience research",
+        "Relevant keywords and creatives",
+        "Seasonal offers and location-focused promotion"
+      ],
+      "role": [
+        "Keep prices and availability current",
+        "Reply to enquiries promptly",
+        "Record confirmed bookings"
+      ],
+      "outcomes": [
+        "Qualified enquiries",
+        "Viewings and signed leases",
+        "Cost per enquiry and lease"
+      ],
+      "headline": "More enquiries. More occupied properties.",
+      "id": "property-rental",
+      "slug": "property-rental",
+      "name": "Property Rental",
+      "group": "property",
+      "order": 17,
+      "icon": "home",
+      "color": "rose",
+      "short": "Promote your rental properties to the right audience.",
+      "intro": "Promote your properties, reach serious tenants and business occupiers, and turn enquiries into viewings and signed leases with Smagizh Marketing.",
+      "highlights": [
+        {
+          "title": "Reach the right tenants",
+          "text": "Targeted campaigns for your city and property types."
+        },
+        {
+          "title": "Get more enquiries",
+          "text": "Turn interest into viewings."
+        },
+        {
+          "title": "Increase occupancy",
+          "text": "More visibility. More rental income."
+        }
+      ],
+      "typeLabel": "property types",
+      "noun": "property",
+      "inventoryLabel": "Property / unit count",
+      "inventoryPlaceholder": "e.g. 5 properties or 50 units",
+      "attract": "Reach tenants and business occupiers with the right offers.",
+      "track": "Enquiries, viewings and signed leases.",
+      "subcategories": [
+        {
+          "id": "property-rental-1",
+          "name": "Apartments / Flats",
+          "sample": "2BHK Semi-Furnished Flat",
+          "icon": "building",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "property-rental-2",
+          "name": "Independent Houses",
+          "sample": "3BHK Independent House with Garden",
+          "icon": "home",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "property-rental-3",
+          "name": "Office Spaces",
+          "sample": "Furnished Office Space – 1,200 sq.ft",
+          "icon": "skyscraper",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "property-rental-4",
+          "name": "Shops / Retail Spaces",
+          "sample": "Ground-Floor Retail Shop – Main Road",
+          "icon": "store",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "property-rental-5",
+          "name": "Warehouse / Godown",
+          "sample": "10,000 sq.ft Warehouse with Loading Dock",
+          "icon": "warehouse",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "property-rental-6",
+          "name": "Villas",
+          "sample": "4BHK Independent Villa with Pool",
+          "icon": "cottage",
+          "color": "cyan",
+          "active": true
+        },
+        {
+          "id": "property-rental-7",
+          "name": "PG / Hostel",
+          "sample": "Single-Sharing PG for Working Professionals",
+          "icon": "bed",
+          "color": "pink",
+          "active": true
+        },
+        {
+          "id": "property-rental-8",
+          "name": "Co-working Space",
+          "sample": "Dedicated Desk – Co-working Space",
+          "icon": "users-group",
+          "color": "indigo",
+          "active": true
+        },
+        {
+          "id": "property-rental-9",
+          "name": "Showrooms",
+          "sample": "Ground-Floor Showroom – 2,500 sq.ft",
+          "icon": "store-alt",
+          "color": "rose",
+          "active": true
+        },
+        {
+          "id": "property-rental-10",
+          "name": "Industrial Property",
+          "sample": "Industrial Shed with 3-Phase Power",
+          "icon": "factory",
+          "color": "green",
+          "active": true
+        },
+        {
+          "id": "property-rental-11",
+          "name": "Commercial Land",
+          "sample": "1-Acre Commercial Land Parcel",
+          "icon": "land-plot",
+          "color": "violet",
+          "active": true
+        },
+        {
+          "id": "property-rental-12",
+          "name": "Residential Land",
+          "sample": "2,400 sq.ft Residential Plot",
+          "icon": "map-pin",
+          "color": "blue",
+          "active": true
+        },
+        {
+          "id": "property-rental-13",
+          "name": "Agricultural Land",
+          "sample": "5-Acre Agricultural Land for Lease",
+          "icon": "sprout",
+          "color": "emerald",
+          "active": true
+        },
+        {
+          "id": "property-rental-14",
+          "name": "Factory / Industrial Shed",
+          "sample": "Factory Shed with Office Block",
+          "icon": "factory-alt",
+          "color": "red",
+          "active": true
+        },
+        {
+          "id": "property-rental-15",
+          "name": "Studio Apartment",
+          "sample": "Fully Furnished Studio Apartment",
+          "icon": "community",
+          "color": "orange",
+          "active": true
+        },
+        {
+          "id": "property-rental-16",
+          "name": "Guest House / Serviced Property",
+          "sample": "Serviced Guest House Room",
+          "icon": "hotel",
+          "color": "cyan",
+          "active": true
+        }
+      ],
+      "supportSub": "Reach the right tenants and make every enquiry easier to manage.",
+      "builtFor": "We plan around your property types, service area, availability and offers, then route enquiries to your team.",
+      "overview": "Promote your properties, reach serious tenants and business occupiers, and turn enquiries into viewings and signed leases with Smagizh Marketing. We plan campaigns around the property types you actually offer — from apartments / flats, independent houses, office spaces and more — the areas you serve and the customers who need them, then route every enquiry to your team on WhatsApp so you can confirm availability and close bookings faster.",
+      "features": [
+        {
+          "icon": "map-pin",
+          "color": "violet",
+          "title": "Get discovered",
+          "text": "Local search and location-focused campaigns."
+        },
+        {
+          "icon": "users",
+          "color": "pink",
+          "title": "Attract enquiries",
+          "text": "Reach tenants and business occupiers with the right offers."
+        },
+        {
+          "icon": "whatsapp",
+          "color": "green",
+          "title": "Follow up faster",
+          "text": "WhatsApp enquiries and organised lead follow-up."
+        },
+        {
+          "icon": "chart",
+          "color": "blue",
+          "title": "Track what converts",
+          "text": "Enquiries, viewings and signed leases."
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "meta-ads",
+      "slug": "meta-ads-management",
+      "name": "Meta Ads Management",
+      "tag": "Paid Social",
+      "icon": "megaphone",
+      "color": "violet",
+      "image": "",
+      "whatsapp": "",
+      "order": 1,
+      "active": true,
+      "description": "Promote your rental inventory and offers on Facebook and Instagram.",
+      "points": [
+        "Location and audience targeting",
+        "Ad creative and copy testing",
+        "Campaign optimisation",
+        "Performance reporting"
+      ],
+      "overview": "Meta Ads put your rental inventory, seasonal offers and availability in front of people in your service area on Facebook and Instagram. We plan audiences around your category and location, test creative and copy, and connect every ad to a WhatsApp or form enquiry so your team can respond quickly.",
+      "benefits": [
+        "Reach local customers before they start searching",
+        "Showcase inventory, prices and offers visually",
+        "Clear view of spend and cost per enquiry"
+      ]
+    },
+    {
+      "id": "google-ads",
+      "slug": "google-ads-management",
+      "name": "Google Ads Management",
+      "tag": "Paid Search",
+      "icon": "search",
+      "color": "blue",
+      "image": "",
+      "whatsapp": "",
+      "order": 2,
+      "active": true,
+      "description": "Reach people searching for rentals in your service area.",
+      "points": [
+        "Keyword and search-term research",
+        "Search campaign management",
+        "Enquiry and conversion tracking",
+        "Budget reviews and reporting"
+      ],
+      "overview": "Google Ads captures customers at the moment they search for a rental near them. We research the search terms your customers use, build focused campaigns for your rental category and service area, and track enquiries so budget moves towards what converts.",
+      "benefits": [
+        "Appear when customers are ready to rent",
+        "Control budget by location and search term",
+        "Enquiry and conversion tracking from day one"
+      ]
+    },
+    {
+      "id": "gbp-setup",
+      "slug": "google-business-profile-setup",
+      "name": "Google Business Profile Setup",
+      "tag": "One-time Setup",
+      "icon": "map-pin",
+      "color": "red",
+      "image": "",
+      "whatsapp": "",
+      "order": 3,
+      "active": true,
+      "description": "Build an accurate business presence on Google Search and Maps.",
+      "points": [
+        "Profile and verification guidance",
+        "Categories and service areas",
+        "Contact details and business hours",
+        "Photos and service information"
+      ],
+      "overview": "A complete Google Business Profile helps nearby customers find your rental business on Search and Maps. We guide profile creation and verification, and set up the right categories, service areas, contact details, hours, photos and service information.",
+      "benefits": [
+        "Be found on Google Search and Maps",
+        "Accurate hours, location and contact details",
+        "A trusted first impression for local customers"
+      ]
+    },
+    {
+      "id": "gbp-optimisation",
+      "slug": "google-business-profile-optimisation",
+      "name": "Google Business Profile Optimisation",
+      "tag": "Ongoing Support",
+      "icon": "star",
+      "color": "amber",
+      "image": "",
+      "whatsapp": "",
+      "order": 4,
+      "active": true,
+      "description": "Keep your profile complete, relevant and useful to local customers.",
+      "points": [
+        "Profile accuracy checks",
+        "Posts and service updates",
+        "Review requests and replies",
+        "Performance insights"
+      ],
+      "overview": "Ongoing profile management keeps your listing accurate and active. We check details regularly, publish posts and service updates, guide review requests and replies, and share insights on how customers find and contact you.",
+      "benefits": [
+        "Fresh, accurate information for customers",
+        "A steady flow of reviews and replies",
+        "Insight into calls, directions and visits"
+      ]
+    },
+    {
+      "id": "seo",
+      "slug": "search-engine-optimisation",
+      "name": "Search Engine Optimisation",
+      "tag": "Content & Local SEO",
+      "icon": "search-chart",
+      "color": "teal",
+      "image": "",
+      "whatsapp": "",
+      "order": 5,
+      "active": true,
+      "description": "Create useful rental content for organic search visibility.",
+      "points": [
+        "Keyword and content planning",
+        "Category and location pages",
+        "On-page content optimisation",
+        "Search performance reporting"
+      ],
+      "overview": "SEO builds long-term organic visibility for your rental categories and locations. We plan keywords and content, create and optimise category and location pages, and report on search performance. SEO results build over months and cannot be guaranteed.",
+      "benefits": [
+        "Organic visibility that builds over time",
+        "Category and location pages customers can find",
+        "Less reliance on paid ads in the long run"
+      ]
+    },
+    {
+      "id": "website-seo",
+      "slug": "website-seo-support",
+      "name": "Website SEO Support",
+      "tag": "Technical SEO",
+      "icon": "browser-tool",
+      "color": "indigo",
+      "image": "",
+      "whatsapp": "",
+      "order": 6,
+      "active": true,
+      "description": "Improve website accessibility for search engines and customers.",
+      "points": [
+        "Crawl and indexing checks",
+        "Page speed and mobile usability",
+        "Technical audit and fixes",
+        "Search Console monitoring"
+      ],
+      "overview": "Technical SEO resolves website issues that affect search access and usability. We check crawling and indexing, page speed and mobile usability, run a technical audit with prioritised fixes, and monitor Search Console.",
+      "benefits": [
+        "Pages search engines can crawl and index",
+        "Faster, mobile-friendly experience",
+        "Prioritised list of fixes"
+      ]
+    },
+    {
+      "id": "local-promotion",
+      "slug": "local-business-promotion",
+      "name": "Local Business Promotion",
+      "tag": "Local Reach",
+      "icon": "map-pinned",
+      "color": "rose",
+      "image": "",
+      "whatsapp": "",
+      "order": 7,
+      "active": true,
+      "description": "Promote your rental services within the areas you serve.",
+      "points": [
+        "Local directory consistency",
+        "Location-focused campaigns",
+        "Community partnership planning",
+        "Local creator collaborations"
+      ],
+      "overview": "Local promotion strengthens your presence in the areas you serve. We keep directory listings consistent, run location-focused campaigns, and plan community partnerships and local creator collaborations.",
+      "benefits": [
+        "Stronger presence in your service areas",
+        "Consistent business details across directories",
+        "Local partnerships that bring referrals"
+      ]
+    },
+    {
+      "id": "lead-generation",
+      "slug": "lead-generation-campaigns",
+      "name": "Lead Generation Campaigns",
+      "tag": "Lead Capture",
+      "icon": "users-group",
+      "color": "sky",
+      "image": "",
+      "whatsapp": "",
+      "order": 8,
+      "active": true,
+      "description": "Connect campaigns, enquiry forms and follow-up in one process.",
+      "points": [
+        "Landing pages and enquiry forms",
+        "Campaign-to-enquiry tracking",
+        "Lead qualification workflow",
+        "CRM and WhatsApp integration"
+      ],
+      "overview": "Lead generation connects your campaigns, landing pages, enquiry forms and follow-up in one process. We track each enquiry back to the campaign that produced it, agree what a qualified lead is, and connect enquiries to your CRM and WhatsApp.",
+      "benefits": [
+        "Every enquiry traced to its campaign",
+        "Agreed lead qualification criteria",
+        "Faster follow-up through WhatsApp"
+      ]
+    },
+    {
+      "id": "consultation",
+      "slug": "digital-marketing-consultation",
+      "name": "Digital Marketing Consultation",
+      "tag": "Strategy",
+      "icon": "message",
+      "color": "fuchsia",
+      "image": "",
+      "whatsapp": "",
+      "order": 9,
+      "active": true,
+      "description": "Get a clear marketing direction for your rental business.",
+      "points": [
+        "Business and audience review",
+        "Channel recommendations",
+        "Prioritised action plan",
+        "Budget and measurement guidance"
+      ],
+      "overview": "A consultation gives you a clear marketing direction before you spend. We review your business, audience and current channels, recommend where to focus, and give you a prioritised action plan with budget and measurement guidance.",
+      "benefits": [
+        "Clarity before committing budget",
+        "Channel recommendations for your category",
+        "A prioritised, practical action plan"
+      ]
+    }
+  ],
+  "plans": [
+    {
+      "id": "free",
+      "name": "Free Plan",
+      "short": "Free",
+      "tagline": "Start Free",
+      "icon": "gift",
+      "color": "violet",
+      "price": 0,
+      "adBudget": 0,
+      "free": true,
+      "showOnCategory": true,
+      "recommended": false,
+      "order": 1,
+      "active": true,
+      "description": "Perfect to get started with Smagizh.",
+      "categoryNote": "Explore the basics",
+      "freeFeatures": [
+        "1 User",
+        "Up to 3 Projects",
+        "Basic Support",
+        "Community Access"
+      ],
+      "features": [
+        "1 user • Up to 3 projects",
+        "Basic support",
+        "Community access"
+      ],
+      "scope": [
+        "Google Search (10 KWs) / month",
+        "Website Visit (10 K) / month",
+        "1 automation per month",
+        "Google Business Profile",
+        "Monthly progress summary",
+        "Priority check-in (monthly)"
+      ]
+    },
+    {
+      "id": "basic",
+      "name": "Basic Plan",
+      "short": "Basic",
+      "tagline": "Local Starter",
+      "icon": "rocket",
+      "color": "orange",
+      "price": 4999,
+      "adBudget": 6000,
+      "free": false,
+      "showOnCategory": true,
+      "recommended": false,
+      "order": 2,
+      "active": true,
+      "description": "Great value and grow steadily.",
+      "categoryNote": "Build your local presence",
+      "features": [
+        "Google Business Profile support",
+        "Local campaign setup",
+        "Monthly progress review"
+      ],
+      "scope": [
+        "Google Search (20 KWs) / month",
+        "Website Visit (20 K) / month",
+        "2 automations per month",
+        "Google Business Profile",
+        "Monthly progress full review",
+        "Priority check-in (bi-weekly)"
+      ]
+    },
+    {
+      "id": "business",
+      "name": "Business Plan",
+      "short": "Business",
+      "tagline": "Booking Growth",
+      "icon": "chart",
+      "color": "violet",
+      "price": 8999,
+      "adBudget": 12000,
+      "free": false,
+      "showOnCategory": true,
+      "recommended": true,
+      "order": 3,
+      "active": true,
+      "description": "More reach, better results.",
+      "categoryNote": "Grow with consistent enquiries",
+      "features": [
+        "Everything in Basic",
+        "Enquiry tracking and lead sheet",
+        "Weekly campaign optimisation"
+      ],
+      "scope": [
+        "Google Search (50 KWs) / month",
+        "Website Visit (50 K) / month",
+        "4 automations per month",
+        "Google Business Profile",
+        "Enquiry tracking and lead sheet",
+        "Weekly optimisation + Monthly review"
+      ]
+    },
+    {
+      "id": "premium",
+      "name": "Premium Plan",
+      "short": "Premium",
+      "tagline": "Business Expansion",
+      "icon": "crown",
+      "color": "amber",
+      "price": 14999,
+      "adBudget": 20000,
+      "free": false,
+      "showOnCategory": true,
+      "recommended": false,
+      "order": 4,
+      "active": true,
+      "description": "Scale faster with dedicated support.",
+      "categoryNote": "Scale with dedicated support",
+      "features": [
+        "Everything in Business",
+        "Remarketing campaigns",
+        "Daily optimisation • Fortnightly review"
+      ],
+      "scope": [
+        "Google Search (100 KWs) / month",
+        "Website Visit (100 K) / month",
+        "Unlimited automations",
+        "Google Business Profile",
+        "Remarketing + retargeting",
+        "Daily optimisation + Fortnightly performance review"
+      ]
+    }
+  ],
+  "comparison": [
+    {
+      "id": "channels",
+      "label": "Advertising channels",
+      "values": {
+        "free": "Not included",
+        "basic": "Google Search OR Meta",
+        "business": "Google Search + Meta",
+        "premium": "Google Search + Meta"
+      }
+    },
+    {
+      "id": "locations",
+      "label": "Service locations",
+      "values": {
+        "free": "1",
+        "basic": "1",
+        "business": "1",
+        "premium": "Up to 2"
+      }
+    },
+    {
+      "id": "campaigns",
+      "label": "Active campaigns",
+      "values": {
+        "free": "Not included",
+        "basic": "Up to 2",
+        "business": "Up to 4",
+        "premium": "Up to 6"
+      }
+    },
+    {
+      "id": "variations",
+      "label": "Ad variations / month",
+      "values": {
+        "free": "Not included",
+        "basic": "2",
+        "business": "4",
+        "premium": "8"
+      }
+    },
+    {
+      "id": "research",
+      "label": "Audience & keyword research",
+      "values": {
+        "free": "10 keywords / month",
+        "basic": "Focused research",
+        "business": "Expanded research",
+        "premium": "Research + competitor review"
+      }
+    },
+    {
+      "id": "setup",
+      "label": "Campaign setup & management",
+      "values": {
+        "free": "Not included",
+        "basic": "Included",
+        "business": "Included",
+        "premium": "Included"
+      }
+    },
+    {
+      "id": "gbp",
+      "label": "Google Business Profile",
+      "values": {
+        "free": "Included",
+        "basic": "Audit",
+        "business": "Optimisation support",
+        "premium": "Optimisation support"
+      }
+    },
+    {
+      "id": "landing",
+      "label": "Landing pages",
+      "values": {
+        "free": "Not included",
+        "basic": "Quoted separately",
+        "business": "1 template page",
+        "premium": "2 template pages"
+      }
+    },
+    {
+      "id": "whatsapp",
+      "label": "WhatsApp enquiry link",
+      "values": {
+        "free": "Included",
+        "basic": "Included",
+        "business": "Included",
+        "premium": "Included"
+      }
+    },
+    {
+      "id": "tracking",
+      "label": "Enquiry tracking",
+      "values": {
+        "free": "Not included",
+        "basic": "Basic lead log",
+        "business": "Tracking + lead sheet",
+        "premium": "Tracking + lead sheet"
+      }
+    },
+    {
+      "id": "retargeting",
+      "label": "Retargeting",
+      "values": {
+        "free": "Not included",
+        "basic": "Not included",
+        "business": "Not included",
+        "premium": "When eligible"
+      }
+    },
+    {
+      "id": "optimisation",
+      "label": "Campaign optimisation",
+      "values": {
+        "free": "Not included",
+        "basic": "Weekly checks",
+        "business": "Weekly optimisation",
+        "premium": "Twice weekly"
+      }
+    },
+    {
+      "id": "report",
+      "label": "Performance report",
+      "values": {
+        "free": "Monthly summary",
+        "basic": "Monthly",
+        "business": "Monthly",
+        "premium": "Fortnightly"
+      }
+    },
+    {
+      "id": "booking",
+      "label": "Booking outcome review",
+      "values": {
+        "free": "Not included",
+        "basic": "Owner lead log",
+        "business": "Monthly review",
+        "premium": "Fortnightly review"
+      }
+    },
+    {
+      "id": "support",
+      "label": "Support",
+      "values": {
+        "free": "Community + basic support",
+        "basic": "Email",
+        "business": "Email + WhatsApp",
+        "premium": "Assigned account contact"
+      }
+    },
+    {
+      "id": "strategy",
+      "label": "Strategy review",
+      "values": {
+        "free": "Monthly check-in",
+        "basic": "At setup",
+        "business": "Monthly",
+        "premium": "Monthly + quarterly planning"
+      }
+    }
+  ],
+  "faqGroups": [
+    {
+      "id": "plans",
+      "name": "Plans & Getting Started",
+      "sub": "Your plan, costs, setup and what's included.",
+      "icon": "rocket"
+    },
+    {
+      "id": "results",
+      "name": "Results & Account Control",
+      "sub": "Performance, enquiries, accounts and policies.",
+      "icon": "chart"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "f1",
+      "order": 1,
+      "group": "plans",
+      "icon": "arrows-swap",
+      "color": "violet",
+      "question": "Can I change my plan?",
+      "answer": "Request an upgrade or downgrade. Timing and fee adjustments follow your billing cycle and agreement; prepaid annual changes need a separate review.",
+      "active": true
+    },
+    {
+      "id": "f2",
+      "order": 2,
+      "group": "plans",
+      "icon": "wallet",
+      "color": "blue",
+      "question": "Is ad spend included?",
+      "answer": "No. Service fees, advertising spend, applicable taxes and third-party costs are separate. Agree each cost before launch.",
+      "active": true
+    },
+    {
+      "id": "f3",
+      "order": 3,
+      "group": "plans",
+      "icon": "tag",
+      "color": "pink",
+      "question": "What discounts are available?",
+      "answer": "Proposed offer: 5% off monthly service fees or 20% off 12 months paid upfront. Discounts cannot be combined and exclude ad spend.",
+      "active": true
+    },
+    {
+      "id": "f4",
+      "order": 4,
+      "group": "plans",
+      "icon": "calendar",
+      "color": "orange",
+      "question": "Can I cancel or request a refund?",
+      "answer": "Monthly and annual commitments differ. Notice periods, cancellation charges and refund eligibility must be confirmed in your agreement before payment.",
+      "active": true
+    },
+    {
+      "id": "f5",
+      "order": 5,
+      "group": "plans",
+      "icon": "chart",
+      "color": "emerald",
+      "question": "Which reports will I receive?",
+      "answer": "Review spend, enquiries and cost per enquiry. Booking and revenue reporting requires your team to record outcomes. Report frequency depends on the plan.",
+      "active": true
+    },
+    {
+      "id": "f6",
+      "order": 6,
+      "group": "plans",
+      "icon": "whatsapp",
+      "color": "green",
+      "question": "How do enquiries reach us?",
+      "answer": "Through your business WhatsApp, calls or forms, depending on setup. Your assigned team follows up, confirms availability and closes bookings.",
+      "active": true
+    },
+    {
+      "id": "f7",
+      "order": 7,
+      "group": "plans",
+      "icon": "apps",
+      "color": "violet",
+      "question": "Do you cover my rental category?",
+      "answer": "The proposed service covers 17 categories across vehicles, equipment, products and property. Confirm your subcategories, location and scope during consultation.",
+      "active": true
+    },
+    {
+      "id": "f8",
+      "order": 8,
+      "group": "plans",
+      "icon": "settings",
+      "color": "red",
+      "question": "What is needed to launch?",
+      "answer": "Provide business details, inventory, prices, availability, photos and account access. Launch follows agreed budgets, creative approval and platform review.",
+      "active": true
+    },
+    {
+      "id": "f9",
+      "order": 9,
+      "group": "results",
+      "icon": "clock",
+      "color": "pink",
+      "question": "When can I expect results?",
+      "answer": "Paid ads can run after approval, but useful performance data takes time. SEO can take months. Timing varies with competition, budget and website readiness.",
+      "active": true
+    },
+    {
+      "id": "f10",
+      "order": 10,
+      "group": "results",
+      "icon": "trophy",
+      "color": "violet",
+      "question": "Are bookings or top rankings guaranteed?",
+      "answer": "No. Campaigns aim to attract relevant enquiries. Bookings depend on pricing, demand, availability and follow-up; search rankings cannot be guaranteed.",
+      "active": true
+    },
+    {
+      "id": "f11",
+      "order": 11,
+      "group": "results",
+      "icon": "user",
+      "color": "teal",
+      "question": "Who controls my accounts?",
+      "answer": "Keep ownership or admin access to your business accounts. Use permission-based agency access rather than sharing passwords. Agree asset ownership and handover in writing.",
+      "active": true
+    },
+    {
+      "id": "f12",
+      "order": 12,
+      "group": "results",
+      "icon": "google",
+      "color": "blue",
+      "question": "Is Google Business Profile free?",
+      "answer": "Google provides Business Profile at no charge for eligible businesses. Any Smagizh fee is for agreed setup or management work, not a fee to Google for listing.",
+      "active": true
+    },
+    {
+      "id": "f13",
+      "order": 13,
+      "group": "results",
+      "icon": "filter",
+      "color": "indigo",
+      "question": "What is a qualified enquiry?",
+      "answer": "Define it together: required rental type, service area, dates and other agreed criteria. An enquiry is not a confirmed booking; record spam, duplicates and outcomes separately.",
+      "active": true
+    },
+    {
+      "id": "f14",
+      "order": 14,
+      "group": "results",
+      "icon": "pause",
+      "color": "orange",
+      "question": "Can we start small or pause seasonal ads?",
+      "answer": "Start with a focused location and priority inventory. Adjust campaigns when availability changes. Pausing ads does not automatically pause service fees or annual commitments.",
+      "active": true
+    },
+    {
+      "id": "f15",
+      "order": 15,
+      "group": "results",
+      "icon": "map-pin",
+      "color": "rose",
+      "question": "Do we need a website or multiple-location plan?",
+      "answer": "Some campaigns can use WhatsApp or lead forms; others need a landing page. Extra locations, pages and tracking are scoped separately to avoid spreading the budget too thin.",
+      "active": true
+    },
+    {
+      "id": "f16",
+      "order": 16,
+      "group": "results",
+      "icon": "message",
+      "color": "blue",
+      "question": "Can we message every lead on WhatsApp?",
+      "answer": "Obtain the permission required for business-initiated messaging, respect opt-outs and use customer data only for agreed purposes. Platform messaging and template rules may apply.",
+      "active": true
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "sample": true,
+      "quote": "The team helped us present our equipment clearly and organise our local promotion.",
+      "role": "Construction rental owner",
+      "name": "",
+      "business": "",
+      "categoryId": "construction-equipment-rental"
+    },
+    {
+      "id": "t2",
+      "sample": true,
+      "quote": "Having enquiries and campaign spend in one report made our monthly review easier.",
+      "role": "Car rental owner",
+      "name": "",
+      "business": "",
+      "categoryId": "car-rental"
+    },
+    {
+      "id": "t3",
+      "sample": true,
+      "quote": "A clear point of contact helped us coordinate offers and customer follow-up.",
+      "role": "Event equipment rental owner",
+      "name": "",
+      "business": "",
+      "categoryId": "party-events-rental"
+    }
+  ],
+  "trialPoints": [
+    "Cancel anytime for no fees",
+    "No charges during the trial period",
+    "Cancel anytime before renewal"
+  ],
+  "nextSteps": [
+    {
+      "title": "Business review",
+      "text": "Understand your fleet and goals."
+    },
+    {
+      "title": "Confirm scope",
+      "text": "Agree services, budget and area."
+    },
+    {
+      "title": "Approve launch",
+      "text": "Review access and campaign creatives."
+    },
+    {
+      "title": "Capture enquiries",
+      "text": "Receive leads on your WhatsApp."
+    },
+    {
+      "title": "Review bookings",
+      "text": "Track enquiry quality and results."
+    }
+  ]
+}

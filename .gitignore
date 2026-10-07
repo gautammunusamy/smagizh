@@ -1,0 +1,12 @@
+!public/uploads/.gitkeep
+!public/uploads/.htaccess
+*.local
+.DS_Store
+api/config.php
+dist
+node_modules
+preview.log
+public/uploads/*
+*.zip
+api/config.local.php
+.claude/

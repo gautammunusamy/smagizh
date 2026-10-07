@@ -1,0 +1,16 @@
+# Never serve the config, the schema or the seed file over the web.
+<FilesMatch "^(config\.php|config\.sample\.php|schema\.sql|seed\.json)$">
+  Require all denied
+</FilesMatch>
+
+# The API returns JSON and must never be cached by a proxy or the browser.
+<IfModule mod_headers.c>
+  Header always set Cache-Control "no-store, no-cache, must-revalidate"
+  Header always set X-Content-Type-Options "nosniff"
+</IfModule>
+
+# api/ holds PHP endpoints only - do not let the SPA rewrite swallow them.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^ - [L]
+</IfModule>
