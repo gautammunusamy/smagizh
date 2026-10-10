@@ -1,5 +1,6 @@
 import { createContext, useCallback, useContext, useEffect, useState } from 'react'
 import { api } from '../api/client'
+import { useData } from './DataContext'
 
 /**
  * Admin session, held by the PHP backend.
@@ -12,6 +13,7 @@ import { api } from '../api/client'
 const AuthContext = createContext(null)
 
 export function AuthProvider({ children }) {
+  const { reload } = useData()
   const [user, setUser] = useState(null)
   const [checking, setChecking] = useState(true)
 
@@ -32,19 +34,24 @@ export function AuthProvider({ children }) {
     try {
       const res = await api.login(username, password)
       setUser(res.user || null)
+      // A signed-in admin gets more from content.php - the enquiries and the
+      // items hidden from the public site - so fetch the content again.
+      await reload()
       return { ok: true }
     } catch (e) {
       return { ok: false, error: e.message }
     }
-  }, [])
+  }, [reload])
 
   const logout = useCallback(async () => {
     try {
       await api.logout()
     } finally {
       setUser(null)
+      // Drop the admin-only data (enquiries, hidden items) from memory.
+      reload()
     }
-  }, [])
+  }, [reload])
 
   const changePassword = useCallback(async (current, next) => {
     try {

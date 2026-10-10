@@ -49,5 +49,7 @@ ok([
     'comparison'   => all_comparison(),
     'faqs'         => $faqs,
     'testimonials' => $testimonials,
+    // Enquiries are private: only a signed-in admin ever receives them.
+    'enquiries'    => $isAdmin ? all_enquiries() : [],
     'isAdmin'      => $isAdmin,
 ]);

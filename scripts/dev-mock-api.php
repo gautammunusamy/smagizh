@@ -48,6 +48,11 @@ $payablePlans = static function () use ($plans): array {
 
 switch (true) {
     case str_ends_with($path, '/content.php'):
+        // mirror the real endpoint: enquiries only for a signed-in admin
+        $signedIn = ($_COOKIE['mock_admin'] ?? '') === '1';
+        $enq = is_file(sys_get_temp_dir() . '/smagizh-mock-enquiries.json')
+            ? (json_decode((string) file_get_contents(sys_get_temp_dir() . '/smagizh-mock-enquiries.json'), true) ?: [])
+            : [];
         ok([
             'settings'     => $settings,
             'categories'   => $seed['categories'] ?? [],
@@ -56,11 +61,34 @@ switch (true) {
             'comparison'   => $seed['comparison'] ?? [],
             'faqs'         => $seed['faqs'] ?? [],
             'testimonials' => $seed['testimonials'] ?? [],
-            'isAdmin'      => true,
+            'enquiries'    => $signedIn ? array_reverse($enq) : [],
+            'isAdmin'      => $signedIn,
         ]);
 
     case str_ends_with($path, '/auth.php'):
-        ok(['user' => ['id' => 1, 'username' => 'smagizh', 'name' => 'Smagizh Admin (mock)']]);
+        $act = (string) ($_GET['action'] ?? 'me');
+        if ($act === 'login') {
+            setcookie('mock_admin', '1', ['path' => '/']);
+            ok(['user' => ['id' => 1, 'username' => 'smagizh', 'name' => 'Smagizh Admin (mock)']]);
+        }
+        if ($act === 'logout') {
+            setcookie('mock_admin', '', ['path' => '/', 'expires' => 1]);
+            ok(['user' => null]);
+        }
+        ok(['user' => ($_COOKIE['mock_admin'] ?? '') === '1' ? ['id' => 1, 'username' => 'smagizh', 'name' => 'Smagizh Admin (mock)'] : null]);
+
+    case str_ends_with($path, '/enquiry.php'): {
+        $f = sys_get_temp_dir() . '/smagizh-mock-enquiries.json';
+        $rows = is_file($f) ? (json_decode((string) file_get_contents($f), true) ?: []) : [];
+        $e = $in;
+        $e['id'] = 'ENQ-' . date('Y') . '-' . random_int(10000, 99999);
+        $e['status'] = 'New';
+        $e['assignedTo'] = 'Unassigned';
+        $e['createdAt'] = date('c');
+        $rows[] = $e;
+        file_put_contents($f, json_encode($rows));
+        ok(['id' => $e['id'], 'routedTo' => $e['routedTo'] ?? '', 'routedTeam' => $e['routedTeam'] ?? 'Default']);
+    }
 
     case str_ends_with($path, '/payment.php'):
         if ($action === 'plans') {
